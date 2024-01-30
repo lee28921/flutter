@@ -1,5 +1,9 @@
 # flutter
 
+개발환경
+IDE : Android Studio
+Language : Dart
+
 <b>class_demo1</b>
 1. 변수와 상수
 2. 데이터 타입
