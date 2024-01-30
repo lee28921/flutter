@@ -1,8 +1,9 @@
 # flutter
 
-개발환경
-IDE : Android Studio
-Language : Dart
+<b>개발환경</b> <br>
+IDE : Android Studio <br>
+Language : Dart <br>
+<hr>
 
 <b>class_demo1</b>
 1. 변수와 상수
