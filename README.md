@@ -18,3 +18,10 @@ Language : Dart <br>
 7. 함수와 메서드
 8. 익명 함수
 9. 람다식(화살표 함수)
+
+<b>class_demo2</b>
+1. 생성자
+2. 선택적 매개변수
+
+<b>class_store_app</b>
+1. 메인 화면 구현 테스트
