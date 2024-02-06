@@ -23,5 +23,11 @@ Language : Dart <br>
 1. 생성자
 2. 선택적 매개변수
 
+<b>class_demo_3</b>
+1. late 키워드
+2. 상속
+   - 이니셜라이져 키워드  
+3. 추상 클래스
+
 <b>class_store_app</b>
 1. 메인 화면 구현 테스트
