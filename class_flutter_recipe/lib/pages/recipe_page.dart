@@ -1,3 +1,5 @@
+import 'package:class_flutter_recipe/components/recipe_list_item.dart';
+import 'package:class_flutter_recipe/components/recipe_menu.dart';
 import 'package:class_flutter_recipe/components/recipe_title.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -11,7 +13,17 @@ class RecipePage extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.white,
       appBar: _buildRecipeAppBar(),
-      body: RecipeTitle(),
+      body: Padding(
+        padding: const EdgeInsets.symmetric(horizontal: 20),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            RecipeTitle(),
+            RecipeMenu(),
+            RecipeListItem(imageName: "coffee", title: "Make coffee"),
+          ],
+        ),
+      ),
     );
   }
 }
