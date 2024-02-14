@@ -29,5 +29,17 @@ Language : Dart <br>
    - 이니셜라이져 키워드  
 3. 추상 클래스
 
+<b>class_demo_4</b>
+1. 컬렉션
+   - list
+   - map
+   - set
+2. 반복문
+   - for문
+   - while문
+
 <b>class_store_app</b>
 1. 메인 화면 구현 테스트
+
+<b>class_store_app</b>
+1. AppBar 디자인
