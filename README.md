@@ -39,7 +39,14 @@ Language : Dart <br>
    - while문
 
 <b>class_store_app</b>
-1. 메인 화면 구현 테스트
+- AppBar 디자인
+- 화면 구현 테스트
 
-<b>class_store_app</b>
-1. AppBar 디자인
+<b>class_calculator</b>
+- 계산기 화면 구현
+
+<b>class_layout_v1</b>
+- 공식문서로 이해하는 레이아웃
+
+<b>oop_dart</b>
+- Dart 언어로 설명하는 객체지향
