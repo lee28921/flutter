@@ -10,13 +10,16 @@ class LoginPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        body: ListView(
-          children: [
-            const SizedBox(height: xlarge_gap),
-            const Logo("Login"),
-            const SizedBox(height: large_gap),
-            CustomForm(),
-          ],
+        body: Padding(
+          padding: const EdgeInsets.all(16.0),
+          child: ListView(
+            children: [
+              const SizedBox(height: xlarge_gap),
+              const Logo("Login"),
+              const SizedBox(height: large_gap),
+              CustomForm(),
+            ],
+          ),
         ),
       ),
     );

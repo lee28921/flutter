@@ -17,7 +17,7 @@ class CustomForm extends StatelessWidget {
           CustomTextFormField('Email'),
           SizedBox(height: medium_gap),
           CustomTextFormField('Password'),
-          SizedBox(height: medium_gap),
+          SizedBox(height: large_gap),
           TextButton(
             onPressed: () {
               // 유효성 검사
